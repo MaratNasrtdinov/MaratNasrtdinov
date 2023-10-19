@@ -1,7 +1,7 @@
 Hi 👋 My name is Marat
 ======================
 
-Beginning Backend Developer
+Python Backend Developer
 ---------------------------
 
 For a year I have been teaching the backend in Python (django) using PostgreSQL, Redis, Celery, Stripe and more. I also learned how to create telegram bots of varying complexity and continue to expand my knowledge in the field of programming. You can find examples of my projects in my repositories.
