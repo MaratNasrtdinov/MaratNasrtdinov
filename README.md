@@ -4,7 +4,7 @@ Hi 👋 My name is Marat
 Beginning Backend Developer
 ---------------------------
 
-For a year I have been teaching the backend in Python (django) using PostgresSQL, Redis, Celery, Stripe and more. I also learned how to create telegram bots of varying complexity and continue to expand my knowledge in the field of programming. You can find examples of my projects in my repositories.
+For a year I have been teaching the backend in Python (django) using PostgreSQL, Redis, Celery, Stripe and more. I also learned how to create telegram bots of varying complexity and continue to expand my knowledge in the field of programming. You can find examples of my projects in my repositories.
 
 *   🌍 I'm based in Russia, Perm Krai
 *   ✉️ You can contact me at [0manas09876@gmail.com](mailto:0manas09876@gmail.com)
